@@ -1,7 +1,7 @@
 ---
 date created: 2025-08-22 17:55:53
 date modified: 2025-08-23 05:13:52
-title: 【プロンプト】Cursol専用_料理MDタグ付け
+title: 【プロンプト】Cursol
 ---
 
 ## 概要
